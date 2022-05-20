@@ -77,6 +77,4 @@ F Tecnology
 ```
  
 
-<img src="/Assets/Desktop.png.png">
-
-<img src="/Assets/Mobile.png.png">
+<img src="./Assets/Desktop.png" alt="Ilustração " >
