@@ -1,0 +1,32 @@
+
+section {
+    padding-bottom: 1rem;
+
+    padding-top: 1rem;
+    
+    width: 100%;
+}
+
+input,
+textarea {
+    margin-bottom: 1rem;
+}
+
+.HOME1 { 
+
+    display: inline-block;
+
+
+
+}
+
+/*
+.card {
+    width: 32%;
+    float: left;
+    flex: 1 1 150px;
+    margin: 5px;
+}
+
+
+
